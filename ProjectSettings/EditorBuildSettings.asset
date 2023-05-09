@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/Scenes/AronScene.unity
+    guid: 727df8a7a3d3247498fbea7958fbd84b
+  - enabled: 0
+    path: Assets/Scenes/MarkScene.unity
+    guid: 087ec1b961f7ad547b50ccbde4e0950a
+>>>>>>> Stashed changes
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d4f6f0330a4e00847ba21bc8ee5b26b3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6efbbadba9b54ca4ebac4c554d6c3dd1, type: 2}
